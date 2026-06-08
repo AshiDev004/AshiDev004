@@ -7,6 +7,6 @@ IT Student at SLIATE | Future Network Engineer
 - Design Network Dashboards in Figma  
 - Build small network lab projects
 
-**Goal:** Network Internship at Telecome,Dialog, SLT, Mobitel
+**Goal:** Network Internship at Dialog, SLT, Mobitel
 
 📍 Badulla, Sri Lanka 🇱🇰
